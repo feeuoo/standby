@@ -51,6 +51,7 @@
 
 ```bash
 powercfg.exe /hibernate on
+```
 ---
 
 ## 🖥️ 任务详情
@@ -72,3 +73,4 @@ powercfg.exe /hibernate on
 
 ```bat
 rundll32.exe powrprof.dll,SetSuspendState
+```
